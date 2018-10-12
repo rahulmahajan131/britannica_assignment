@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * All the beans and configuration happen on the start on this class. 
  * 
  * @author Rahul Mahajan
- * @version 1.0
+ * @version 1.0 
  * @since 10-12-2018
  *
  */
