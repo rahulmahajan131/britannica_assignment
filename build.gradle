@@ -1,6 +1,6 @@
 apply plugin: 'java'
 apply plugin: 'eclipse'
-apply plugin: 'spring-boot' 
+apply plugin: 'org.springframework.boot' 
 
 buildscript {
 	ext {
@@ -16,7 +16,7 @@ buildscript {
 
 jar {
 	baseName = 'eb_publisher_service'
-	version = '0.0.1-SNAPSHOT'
+	version = '0.0.1'
 }
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
